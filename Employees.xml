@@ -1,0 +1,37 @@
+<Employees>
+	<Employee>
+		<Name>Deepak</Name>
+		<Company>TCS</Company>
+		<Experience>7</Experience>
+		<designation>Senior software engineer</designation>
+		<mail>deepak750369@gmail.com</mail>
+	</Employee>
+	<Employee>
+		<Name>Srivalli</Name>
+		<Company>Wipro</Company>
+		<Experience>3</Experience>
+		<designation>software engineer</designation>
+		<mail>vasamsettivalli@gmail.com</mail>
+	</Employee>
+	<Employee>
+		<Name>Chakri</Name>
+		<Company>Accenture</Company>
+		<Experience>4</Experience>
+		<designation>PI/PO consultant</designation>
+		<mail>b.chakradharreddy1357@gmail.com</mail>
+	</Employee>
+	<Employee>
+		<Name>Murali</Name>
+		<Company>Wipro</Company>
+		<Experience>5</Experience>
+		<designation>PI/PO/cpi consultant</designation>
+		<mail>gandhammurali208@gmail.com</mail>
+	</Employee>
+	<Employee>
+		<Name>Biswa</Name>
+		<Company>Wipro</Company>
+		<Experience>9</Experience>
+		<designation>PI/PO/cpi consultant</designation>
+		<mail>biswa@gmail.com</mail>
+	</Employee>
+</Employees>
